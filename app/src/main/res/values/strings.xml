@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RaGheMaApp</string>
+    <string name="tv_login">Digite seu login</string>
+    <string name="tv_senha">Digite sua senha</string>
+    <string name="tv_gerenciador_tarefas">Gerenciador de tarefas</string>
+    <string name="imageview">imageView</string>
+    <string name="tv_criar_conta">Criar conta</string>
+    <string name="entrar">Entrar</string>
+</resources>
