@@ -6,4 +6,7 @@
     <string name="imageview">imageView</string>
     <string name="tv_criar_conta">Criar conta</string>
     <string name="entrar">Entrar</string>
+    <string name="registro_de_conta">Registro de Conta</string>
+    <string name="digite_seu_email">Digite seu email</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
 </resources>
